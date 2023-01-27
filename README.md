@@ -5,13 +5,15 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true)
 
-### my work experiences 👋
+### my work experiences 
 <div style="display: inline_block"><br>
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 
 
+                                                                                                                                            
+### interest                                                                                                                                            
 <div style="display: inline_block"><br>
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://pop.system76.com/icon-512.png" /> 
