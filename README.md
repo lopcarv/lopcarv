@@ -17,6 +17,7 @@
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/vmware.png" />                                             <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/google-cloud-platform.png" />                               <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/512/amazon-web-services.png" />                               <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://www.pngitem.com/pimgs/m/478-4782464_pfsense-square-logo-pfsense-logo-square-hd-png.png" />    
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://www.pc-freak.net/images/monitor-if-log-file-is-growing-with-zabbix-zabbix-userparameter-script-howto.png" />  
+ <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https:guiadohost.files.wordpress.com/2022/05/logomarca-osticket-helpdesk.png" /> 
 
           
 </div>
