@@ -7,7 +7,7 @@
 
 ### my work experiences 
 <div style="display: inline_block"><br>
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2F-baco-tecnologia-de-informa-o&psig=AOvVaw0aA8pj3fjKxvoIa-LtsZM1&ust=1674921775493000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDFvf2P6PwCFQAAAAAdAAAAABAT" />
+<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://media.licdn.com/dms/image/C4D0BAQFj4R0CVzyVUA/company-logo_200_200/0/1602870992596?e=1683158400&v=beta&t=c9n_G3Q1jPgNReYPAkY7zuo9TqfzLr1JEL5DkLx8Z6s" />
 </div>
 
 
