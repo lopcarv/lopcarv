@@ -6,16 +6,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true)
 
 ### my work experiences 
-<div style="display: inline_block"><br>
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://media.licdn.com/dms/image/C4D0BAQFj4R0CVzyVUA/company-logo_200_200/0/1602870992596?e=1683158400&v=beta&t=c9n_G3Q1jPgNReYPAkY7zuo9TqfzLr1JEL5DkLx8Z6s" />
 
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dN7HkFAhiuKepTwCqNBZl2ycw67CoECtDhOOCKW6EzovTAvYnY73lH8Dgpzip1ppNlU&usqp=CAU" />
-
-<img alingn="center" alt="Rafa-Js height="60" width="80" src="https://www.indracompany.com/sites/default/files/d7/Nueva_Marca/kit_de_prensa/Imagenes_multimedia/logotipo_indra_version_secundaria.jpg" />
-
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdg5xODb73tjLAzh-aOJGST8Xo-ihgJGKVFw&usqp=CAU" />                                                       
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/5383/brand.gif?itok=Z6_RQXBX" />
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://logodownload.org/wp-content/uploads/2018/01/marinha-do-brasil-logo-1.png" />
  
 </div>
 
