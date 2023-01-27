@@ -15,6 +15,6 @@
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/vmware.png" />                                             <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/vmware.png" />                                                                                                
+<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/vmware.png" />                                             <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://img.icons8.com/color/2x/google-cloud-platform.png" />                                                                                                
           
 </div>
