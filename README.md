@@ -7,7 +7,7 @@
 
 ### my work experiences 
 <div style="display: inline_block"><br>
-<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2F-baco-tecnologia-de-informa-o&psig=AOvVaw0aA8pj3fjKxvoIa-LtsZM1&ust=1674921775493000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDFvf2P6PwCFQAAAAAdAAAAABAT" />
 </div>
 
 
