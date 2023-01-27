@@ -22,5 +22,5 @@
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://adoltech.com/wp-content/uploads/2020/05/test12-1.png" /> 
 <img alingn="center" alt="Rafa-Js height="60" width="80"  src="https://guiadohost.files.wordpress.com/2022/05/logomarca-osticket-helpdesk.png" /> 
 <img alingn="center" alt="Rafa-Js height="60" width="80"   src="https://brandslogos.com/wp-content/uploads/thumbs/alfresco-logo-vector-1.svg" />
-<img alingn="center" alt="Rafa-Js height="60" width="80"  src="https://tic.gal/wp-content/uploads/2017/11/PictoGlpi-1-300x300.png" />                                                                                                                                              
+<img alingn="center" alt="Rafa-Js height="60" width="80"  src="https://tic.gal/wp-content/uploads/2017/11/PictoGlpi-1-300x300.png" />                     <img alingn="center" alt="Rafa-Js height="60" width="80"  src="https://img.icons8.com/nolan/512/gimp.png" />                                                                                                                           
 </div>
