@@ -16,16 +16,11 @@
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://pop.system76.com/icon-512.png" /> 
 <img alingn="center" alt="Rafa-Js" height="50" width="70"   src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/wireshark-icon.png" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" />
- 
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://www.al-fahad.biz/wp-content/uploads/2021/03/oracle.png" /> 
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-
- 
- 
- 
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
@@ -33,19 +28,12 @@
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://smkn1panyabungan.sch.id/wp-content/uploads/2017/03/mikrotik-1900x990_c.jpg" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://img.icons8.com/color/2x/google-cloud-platform.png" />  
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://img.icons8.com/color/2x/vmware.png" /> 
-<img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://img.icons8.com/color/512/amazon-web-services.png" />                                                                                                             
- 
-<img alingn="center" alt="Rafa-Js" height="60" width="80"   src="http://princetechsolutions.com/wp-content/uploads/2018/03/QlikSense.png" />
+<img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://img.icons8.com/color/512/amazon-web-services.png" />                             <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="http://princetechsolutions.com/wp-content/uploads/2018/03/QlikSense.png" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://brandslogos.com/wp-content/uploads/thumbs/alfresco-logo-vector-1.svg" />
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://cdn.cdnlogo.com/logos/a/65/azure-active-directory.svg" />
-
-
 <img alingn="center" alt="Rafa-Js" height="60" width="80"  src="https://tic.gal/wp-content/uploads/2017/11/PictoGlpi-1-300x300.png" />                   
 <img alingn="center" alt="Rafa-Js" height="60" width="80"  src="https://guiadohost.files.wordpress.com/2022/05/logomarca-osticket-helpdesk.png" /> 
-  
 <img alingn="center" alt="Rafa-Js" height="60" width="80"   src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" />     
-
- 
 
 
 </div>
