@@ -1,7 +1,7 @@
 ### Olá eu sou o Luis Orlando 👋
 
-- 🔭 Hoje Trabalho com Infraestrutura de TI
-- 🌱 Estudante de Teologia e Programação
+- 🔭 I currently work with IT Infrastructure
+- 🌱 Student of Theology and Programming
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true)
 
