@@ -34,5 +34,5 @@
 <img alingn="center" alt="Rafa-Js" height="15" width="40"  src="https://guiadohost.files.wordpress.com/2022/05/logomarca-osticket-helpdesk.png" /> 
 <img alingn="center" alt="Rafa-Js" height="15" width="40"   src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" />     
 <img alingn="center" alt="Rafa-Js" height="30" width="40"   src="http://princetechsolutions.com/wp-content/uploads/2018/03/QlikSense.png" />
-
+<img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
 </div>
