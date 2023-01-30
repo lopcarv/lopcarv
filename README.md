@@ -32,7 +32,8 @@
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.cdnlogo.com/logos/a/65/azure-active-directory.svg" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"  src="https://tic.gal/wp-content/uploads/2017/11/PictoGlpi-1-300x300.png" />                   
 <img alingn="center" alt="Rafa-Js" height="15" width="40"  src="https://guiadohost.files.wordpress.com/2022/05/logomarca-osticket-helpdesk.png" /> 
-<img alingn="center" alt="Rafa-Js" height="15" width="40"   src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" />     
-<img alingn="center" alt="Rafa-Js" height="30" width="40"   src="http://princetechsolutions.com/wp-content/uploads/2018/03/QlikSense.png" />
+<img alingn="center" alt="Rafa-Js" height="15" width="40"   src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" />  
+ <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://www.nagios.com/wp-content/uploads/2016/08/NagiosPowered-211x211.png" />  
+<img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://zappysys.com/blog/wp-content/uploads/2018/07/logo-qlik-sense.png" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" />
 </div>
