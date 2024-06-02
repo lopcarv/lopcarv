@@ -23,7 +23,7 @@
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-<img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://www.pngitem.com/pimgs/m/478-4782464_pfsense-square-logo-pfsense-logo-square-hd-png.png" />
+
 <img alingn="center" alt="Rafa-Js" height="30" width="40"   src="https://smkn1panyabungan.sch.id/wp-content/uploads/2017/03/mikrotik-1900x990_c.jpg" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://img.icons8.com/color/2x/google-cloud-platform.png" />  
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://img.icons8.com/color/2x/vmware.png" /> 
