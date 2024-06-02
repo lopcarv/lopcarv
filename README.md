@@ -10,8 +10,6 @@
 ### My Experience🔎 and Interests 💡
 </div>
 <div style="display: inline_block"><br>
-<img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-#<img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://pop.system76.com/icon-512.png" /> 
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/wireshark-icon.png" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" />
 <img alingn="center" alt="Rafa-Js" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
