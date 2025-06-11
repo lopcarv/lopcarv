@@ -15,5 +15,5 @@
 <img align="center" alt="phyp" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Java" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png">
-<img align="center" alt="Java" height="30" width="40" src="https://www.iconfinder.com/icons/2282834/coding_database_development_mysql_web_icon">
+
 </div>
