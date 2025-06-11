@@ -14,7 +14,8 @@
 <img align="center" alt="windows" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_windows-512.png">
 <img align="center" alt="phyp" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Java" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Java_code_file_java-512.png">
+<img align="center" alt="Java" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png">
 <img align="center" alt="[htmlcss" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png">
-<img align="center" alt="htmlcss" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/file-format-icons-5/201/Untitled-43-512.png">
+<img align="center" alt="htmlcss" height="30" width="40" 
+src="https://www.iconfinder.com/icons/5112708/database_file_format_sql_web_icon">
 </div>
