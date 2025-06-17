@@ -46,39 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="CSS" width="40" />
 </div>
 
----
 
-### 🧩 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais legais:
-
-#### 🔍 Scanner de Portas em Python
-*Descrição:* Ferramenta simples para escanear portas abertas em IPs ou sites. Ótimo para estudos de segurança básica.
-🛠️ Tecnologias: Python  
-[🔗 Ver projeto](https://github.com/lopcarv/seu-repositorio-portscanner) 
-
-#### 🧮 Calculadora de Medidas
-*Descrição:* Aplicação em Python que converte unidades como metros, bits, bytes, GB, etc.
-🛠️ Tecnologias: Python  
-[🔗 Ver projeto](https://github.com/lopcarv/seu-repositorio-python) 
-
-#### 💻 FullStackStudy
-*Descrição:* Repositório central com projetos em várias linguagens (Java, Python, HTML/CSS, JS). Meu espaço de aprendizado contínuo.
-🛠️ Tecnologias: Java, Python, JavaScript, HTML, CSS  
-[🔗 Ver projeto](https://github.com/lopcarv/fullstackstudy) 
-
-#### 🐢 Git & GitHub Estudos
-*Descrição:* Anotações, fluxos e dicas sobre Git e GitHub para iniciantes.
-🛠️ Tecnologias: Git, GitHub CLI  
-[🔗 Ver projeto](https://github.com/lopcarv/git-estudos) 
-
----
-
-### 📬 Entre em contato!
-
-Se quiser falar comigo ou colaborar em algum projeto:
-📧 luis.orlando.contato@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/luisorlando/) 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=aura&layout=waffle" />
