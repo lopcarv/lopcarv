@@ -21,7 +21,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently studying
 
 🐍 Python
 ☕ Java
@@ -30,7 +30,7 @@
 🐘 PHP
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Github Statistics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="45%" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 💻 Tecnologias que uso
+## 💻 Technologies I use
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" width="40" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎥 Preview ou Curiosidade
+## 🎥 Preview or curiosity
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
@@ -66,7 +66,7 @@
 
 ---
 
-## 🙏 Frase que me inspira
+## 🙏 Phrase that inspires me
 
 >"Technology moves the world, but faith sustains it."
 > – Luis Orlando
