@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋Hello, I'm Luis Orlando
+# 👋 Hello, I'm Luis Orlando
 
 ### 📡 Infraestrutura de TI | 🎓 Programming student    
 💡 Passionate about technology, automation, operating systems and the social impact of IT.  
@@ -21,21 +21,52 @@
 
 ---
 
-## 📚 Currently studying
+<table>
+  <tr>
+    <td width="50%">
 
-🐍 Python
-☕ Java
-🐧 Linux para servidores
-🐳 Docker e DevOps
-🐘 PHP
+### 📚 Currently studying
+
+- 🐍 Python  
+- ☕ Java  
+- 🐧 Linux for servers  
+- 🐳 Docker & DevOps  
+- 🐘 PHP  
+
+</td>
+<td width="50%">
+
+### 💻 Technologies I use
+
+<div align="center">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" width="35" />
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_windows-512.png" title="Windows" width="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="35" />
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png" title="Java" width="35" />
+  <img src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png" title="PHP" width="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
+</div>
+
+</td>
+  </tr>
+</table>
+
 ---
 
-## 📈 Github Statistics
+### 📈 Github Statistics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=aura&layout=compact" width="45%" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="90%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=aura&layout=compact" width="90%" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lopcarv&theme=darkhub&column=4" />
@@ -43,22 +74,7 @@
 
 ---
 
-## 💻 Technologies I use
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" width="40" />
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_windows-512.png" title="Windows" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" />
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png" title="Java" width="40" />
-  <img src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png" title="PHP" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="40" />
-</div>
-
----
-
-## 🎥 Preview or curiosity
+### 🎥 Preview or curiosity
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
@@ -66,9 +82,9 @@
 
 ---
 
-## 🙏 Phrase that inspires me
+### 🙏 Phrase that inspires me
 
->"Technology moves the world, but faith sustains it."
+> "Technology moves the world, but faith sustains it."  
 > – Luis Orlando
 
 ---
@@ -77,7 +93,5 @@
 
 Made with ❤️ and coffee by **Luis Orlando**  
 📍 Capanema, PA – Brasil  
-  
+
 </div>
-
-
