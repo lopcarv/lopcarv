@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Luis Orlando</h1>
-  <p><strong>Infraestrutura de TI</strong> | <strong>Estudante de Teologia e Programação</strong></p>
+  <h1>👋 Hello, I'm Luis Orlando</h1>
+  <p><strong>IT Infrastructure</strong> | <strong>Programming student</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/luisorlando/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
