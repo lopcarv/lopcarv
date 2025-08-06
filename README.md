@@ -23,33 +23,38 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- Currently studying -->
+    <td width="33%" valign="top">
+      <h3>📚 Currently studying</h3>
+      <ul>
+        <li>🐍 Python</li>
+        <li>☕ Java</li>
+        <li>🐧 Linux for servers</li>
+        <li>🐳 Docker & DevOps</li>
+        <li>🐘 PHP</li>
+      </ul>
+    </td>
 
-### 📚 Currently studying
+    <!-- Technologies I use -->
+    <td width="33%" valign="top">
+      <h3>💻 Technologies I use</h3>
+      <div align="center">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" width="35" />
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_windows-512.png" title="Windows" width="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="35" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png" title="Java" width="35" />
+        <img src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png" title="PHP" width="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
+      </div>
+    </td>
 
-- 🐍 Python  
-- ☕ Java  
-- 🐧 Linux for servers  
-- 🐳 Docker & DevOps  
-- 🐘 PHP  
-
-</td>
-<td width="50%">
-
-### 💻 Technologies I use
-
-<div align="center">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" width="35" />
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_windows-512.png" title="Windows" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="35" />
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-64.png" title="Java" width="35" />
-  <img src="https://cdn2.iconfinder.com/data/icons/technology-devices-12/512/Php_code_file_php-256.png" title="PHP" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
-</div>
-
-</td>
+    <!-- Most used languages -->
+    <td width="33%" valign="top" align="center">
+      <h3>📊 Most used languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=aura&layout=compact" width="90%" />
+    </td>
   </tr>
 </table>
 
@@ -57,16 +62,9 @@
 
 ### 📈 Github Statistics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="90%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=aura&layout=compact" width="90%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="60%" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lopcarv&theme=darkhub&column=4" />
@@ -95,3 +93,4 @@ Made with ❤️ and coffee by **Luis Orlando**
 📍 Capanema, PA – Brasil  
 
 </div>
+
