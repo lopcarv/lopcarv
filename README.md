@@ -23,11 +23,11 @@
 
 ## 📚 Atualmente estudando
 
-- Python
-- Java
-- Linux para servidores
-- Docker e DevOps
-- PHP
+🐍 Python
+☕ Java
+🐧 Linux para servidores
+🐳 Docker e DevOps
+🐘 PHP
 ---
 
 ## 📈 Estatísticas do GitHub
