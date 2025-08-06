@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hello, I'm Luis Orlando
+<h1>👋 Hello, I'm Luis Orlando</h1>
 
-### 📡 Infraestrutura de TI | 🎓 Programming student    
-💡 Passionate about technology, automation, operating systems and the social impact of IT.  
-🚀 In search of collaborative projects and continuous learning.
+<h3>📡 Infraestrutura de TI | 🎓 Programming student</h3>    
+<p>💡 Passionate about technology, automation, operating systems and the social impact of IT.<br>
+🚀 In search of collaborative projects and continuous learning.</p>
 
----
+<hr>
 
-### 🌐 Connect with me
+<h3>🌐 Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/luisorlando/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,7 +19,7 @@
 
 </div>
 
----
+<hr>
 
 <table>
   <tr>
@@ -58,9 +58,9 @@
   </tr>
 </table>
 
----
+<hr>
 
-### 📈 Github Statistics
+<h3 align="center">📈 Github Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&theme=aura&show_icons=true&count_private=true" width="60%" />
@@ -70,27 +70,27 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lopcarv&theme=darkhub&column=4" />
 </div>
 
----
+<hr>
 
-### 🎥 Preview or curiosity
+<h3 align="center">🎥 Preview or curiosity</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
 </div>
 
----
+<hr>
 
-### 🙏 Phrase that inspires me
+<h3 align="center">🙏 Phrase that inspires me</h3>
 
-> "Technology moves the world, but faith sustains it."  
-> – Luis Orlando
+<blockquote>
+<p>"Technology moves the world, but faith sustains it."<br>– Luis Orlando</p>
+</blockquote>
 
----
+<hr>
 
 <div align="center">
 
-Made with ❤️ and coffee by **Luis Orlando**  
-📍 Capanema, PA – Brasil  
+<p>Made with ❤️ and coffee by <strong>Luis Orlando</strong><br>
+📍 Capanema, PA – Brasil</p>
 
 </div>
-
