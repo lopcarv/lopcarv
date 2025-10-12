@@ -28,7 +28,7 @@
 https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=default&layout=compact
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lopcarv&show_icons=true&theme=default)
 
-ogia move o mundo, mas a fé o sustenta."_  
+Tecnogia move o mundo, mas a fé o sustenta."_  
 > — Luis Orlando
 
 ---
