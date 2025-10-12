@@ -17,18 +17,6 @@
 - Docker & DevOps 🐳  
 - PHP 🐘  
 
----
-
-## 📊 Estatísticas do GitHub
-
-
-div align="center">
-  https://github-readme-stats.vercel.app/api?username=lopcarv&show_icons=true&theme=dark&include_all_commits=true&count_private=true
-
-
-
-Tecnogia move o mundo, mas a fé o sustenta."_  
-> — Luis Orlando
 
 ---
 
