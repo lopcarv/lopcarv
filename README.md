@@ -8,8 +8,9 @@
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=//www.linkedin.com/in/luisorlando/)
-[![GitHub](https://img.shields.io/github/followers/lopcarv?label=Seguidores&he-badge](https://github.com/lopcarv)
+[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=//www.linkedin.com/in/luisorlando/)
+[![GitHub](https://img.shields.io/github/followers/lopcarv?label=Seguidores&he-badge](https://github.com/lopcarv)](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/luisorlando/)
+https://img.shields.io/github/followers/lopcarv?label=Seguidores&style=for-the-badge](https://github.com/lopcarv))
 
 ---
 
