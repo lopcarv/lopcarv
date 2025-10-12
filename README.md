@@ -21,7 +21,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&theme=default&layout=compact
+
+div align="center">
+  https://github-readme-stats.vercel.app/api?username=lopcarv&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+
 
 
 Tecnogia move o mundo, mas a fé o sustenta."_  
