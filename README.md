@@ -3,8 +3,12 @@
 📡 Analista de Sistemas e Professor 🎓 
 💡 Apaixonado por tecnologia, automação, sistemas operacionais e o impacto social da TI.
 🚀 Em busca de projetos colaborativos e aprendizado contínuo.
-
 ---
+## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -32,15 +36,6 @@
 ![Cisco Switches](https://img.shields.io/badge/Cisco_Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Firewall](https://img.shields.io/badge/Cisco_Firewall-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 📚 Estudando Atualmente
 - 🐍 Python
 - ☕ Java
@@ -57,8 +52,6 @@
 - ✅ Dominar Docker
 - ✅ Aprender CI/CD
 - ✅ Contribuir para projetos Open Source
-
----
 
 ## 📫 Contato
 📧 [Seu Email](mailto:seu-email@exemplo.com)  
