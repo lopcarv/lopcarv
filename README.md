@@ -33,10 +33,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco_Routers-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Fortinet_Firewall-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
----
-
-## 📊 Estatísticas GitHub
-
 ## 📊 Estatísticas GitHub
 
 <p align="center">
