@@ -28,11 +28,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Routers-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Fortinet_Firewall-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco Routers](https://img.shields.io/badge/Cisco_Routers-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Switches](https://img.shields.io/badge/Cisco_Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Firewall](https://img.shields.io/badge/Cisco_Firewall-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 ## 📊 Estatísticas GitHub
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
