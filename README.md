@@ -23,20 +23,25 @@
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Infraestrutura e DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Routers-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Fortinet_Firewall-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
+## 📊 Estatísticas GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
