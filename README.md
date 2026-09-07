@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou Luis Orlando
 
-📡 Infraestrutura de TI | 🎓 Estudante de Programação
-
+📡 Analista de Sistemas e Professor 🎓 
 💡 Apaixonado por tecnologia, automação, sistemas operacionais e o impacto social da TI.
-
 🚀 Em busca de projetos colaborativos e aprendizado contínuo.
 
 ---
@@ -43,7 +41,6 @@
 ---
 
 ## 📚 Estudando Atualmente
-
 - 🐍 Python
 - ☕ Java
 - 🐧 Linux para Servidores
@@ -52,11 +49,8 @@
 - 🌐 Desenvolvimento Web
 - 🔒 Segurança da Informação
 - ☁️ Computação em Nuvem
-
 ---
-
 ## 🎯 Objetivos 2026
-
 - ✅ Aprimorar Python
 - ✅ Construir projetos em Java
 - ✅ Dominar Docker
@@ -66,12 +60,9 @@
 ---
 
 ## 📫 Contato
-
 📧 [Seu Email](mailto:seu-email@exemplo.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 🌎 GitHub: [https://github.com/lopcarv](https://github.com/lopcarv)
 
 ---
-
-📍 Capanema - PA, Brasil  
 ☕ Feito com muito café e código
