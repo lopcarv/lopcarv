@@ -25,10 +25,10 @@
 ---
 
 ### 🛠️ Áreas de Interesse & Atuação
-![Sistemas Operacionais](https://shields.io)
+![Desenvolvimento de Software](https://shields.io)
 ![Automação](https://shields.io)
-![Redes e Segurança](https://shields.io)
-![Educação e TI](https://shields.io)
+![Infraestrutura de TI](https://shields.io)
+![Ciência da Religião](https://shields.io)
 
 ---
 
