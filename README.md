@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar e
 
 ---
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
@@ -39,7 +39,7 @@ Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar e
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
