@@ -2,7 +2,7 @@
 
 📡 **Analista de Sistemas e Professor** | ✝️ **Doutor em Teologia Sistemática**
 
-💡 Apaixonado por tecnologia, automação, sistemas operacionais e pelo impacto social da TI.  
+💡 Apaixonado por tecnologia, automação, Desenvolvimento e pelo impacto social da TI.  
 🚀 Em busca de projetos colaborativos, pesquisa interdisciplinar e aprendizado contínuo.
 
 ---
