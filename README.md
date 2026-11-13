@@ -1,8 +1,39 @@
-# 👋 Olá, eu sou Luis Orlando
+# Olá! Eu sou o Prof. Luis Orlando Carvalho 👋
 
-📡 Analista de Sistemas e Professor 🎓  
-💡 Apaixonado por tecnologia, automação, sistemas operacionais e o impacto social da TI.  
-🚀 Em busca de projetos colaborativos e aprendizado contínuo.
+📡 **Analista de Sistemas e Professor** | ✝️ **Doutor em Teologia Sistemática**
+
+💡 Apaixonado por tecnologia, automação, sistemas operacionais e pelo impacto social da TI.  
+🚀 Em busca de projetos colaborativos, pesquisa interdisciplinar e aprendizado contínuo.
+
+---
+
+### 🎓 Formação Acadêmica
+
+#### 💻 Tecnologia, Ciências Exatas e Educação
+* 🎓 **Bacharel em Ciência da Computação**
+* 🌐 **Graduado em Redes de Computadores**
+* 🔒 **Pós-Graduado em Segurança e Redes**
+* 📐 **Licenciado em Matemática**
+* 🧠 **Pós-Graduado em Neuropsicopedagogia**
+
+#### ✝️ Teologia e Ciências da Religião
+* 🎓 **Doutor em Teologia Sistemática**
+* ✝️ **Bacharel em Teologia**
+* 📖 **Pós-Graduado em Teologia Bíblica**
+* 🕊️ **Pós-Graduado em Teologia do Novo Testamento**
+
+---
+
+### 🛠️ Áreas de Interesse & Atuação
+![Sistemas Operacionais](https://shields.io)
+![Automação](https://shields.io)
+![Redes e Segurança](https://shields.io)
+![Educação e TI](https://shields.io)
+
+---
+
+### 🤝 Vamos nos conectar?
+Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocarmos ideias sobre tecnologia, educação e projetos colaborativos!
 
 ---
 
