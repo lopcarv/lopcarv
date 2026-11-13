@@ -31,6 +31,8 @@ Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar e
 ---
 
 
+---
+
 ### 📊 Estatísticas GitHub
 
 <p align="center">
