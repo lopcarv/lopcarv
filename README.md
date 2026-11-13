@@ -22,13 +22,6 @@
 * 📖 **Pós-Graduado em Teologia Bíblica**
 * 🕊️ **Pós-Graduado em Teologia do Novo Testamento**
 
----
-
-### 🛠️ Áreas de Interesse & Atuação
-![Desenvolvimento de Software](https://shields.io)
-![Automação](https://shields.io)
-![Infraestrutura de TI](https://shields.io)
-![Ciência da Religião](https://shields.io)
 
 ---
 
