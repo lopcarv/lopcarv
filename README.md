@@ -28,19 +28,13 @@
 ### 🤝 Vamos nos conectar?
 Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocarmos ideias sobre tecnologia, educação e projetos colaborativos!
 
----
 
-
----
-
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas e Histórico
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lopcarv&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopcarv&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lopcarv&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lopcarv&theme=tokyonight" alt="Linguagens" />
 </p>
-
----
 
 ### 🚀 Tecnologias e Ferramentas
 
