@@ -1,4 +1,4 @@
-# Olá! Eu sou o Prof. Luis Orlando Carvalho 👋
+# Olá! Eu sou o Prof. Luis Carvalho 👋
 
 📡 **Analista de Sistemas e Professor** | ✝️ **Doutor em Teologia Sistemática**
 
